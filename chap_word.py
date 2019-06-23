@@ -27,6 +27,6 @@ if __name__ == '__main__':
         row_cells[1].text = id
         row_cells[2].text = desc
 
-    document_ins.save('demo.docx')
+    document_ins.save('docx_demo.docx')
 
 
